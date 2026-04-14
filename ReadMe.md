@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏽‍💻 Data Science student at The University of Texas Austin<br>💭 trying to wrap my head around creating on the blockchain<br>🎵 music is everything, learning FL Studio<br>👀 Looking for a Winter Co-Op or Internship opportunity for 2026
+Data Science student at The University of Texas Austin<br>trying to wrap my head around creating on the blockchain<br>music is everything, learning FL Studio<br>Looking for a Winter Co-Op or Internship opportunity for 2026 (please)
 
 
 ## 🌐 Socials:
