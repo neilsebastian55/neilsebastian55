@@ -1,4 +1,4 @@
-# 🎧 hey im neil!
+# 🎧 hi im neil
 Stat & Data Science Student at UT Austin<br>
 Pursuing AI/ML/DL
 
